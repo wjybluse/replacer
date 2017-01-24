@@ -1,0 +1,10 @@
+[package]
+name = "replacer"
+version = "0.1.0"
+authors = ["Tingyi Wan <tingyi_wan@kingdee.com>"]
+
+[dependencies]
+walkdir = "1"
+regex = "0.2"
+mioco = "*"
+clap = "2"
